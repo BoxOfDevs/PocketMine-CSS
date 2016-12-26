@@ -1,2 +1,2 @@
 # PocketMine-CSS
-Awesome CSS c
+Awesome CSS styles for your PMMP-related website! 
