@@ -2,4 +2,4 @@
 Awesome CSS styles for your PMMP-related website! 
 
 ### CDN
-`https://cdn.jsdelivr.net/pocketmine-css/latest/PocketMine.min.css`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/pocketmine-css/latest/PocketMine.min.css">`
